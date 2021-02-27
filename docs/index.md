@@ -1,8 +1,9 @@
-## OpenFaaS - Serverless Functions Made Simple
+## OpenFaaS - Serverless Functions Simplificadas
 
 ![OpenFaaS Logo](https://blog.alexellis.io/content/images/2017/08/faas_side.png)
 
-OpenFaaS&reg; makes it easy for developers to deploy event-driven functions and microservices to Kubernetes without repetitive, boiler-plate coding. Package your code or an existing binary in a Docker image to get a highly scalable endpoint with auto-scaling and metrics.
+Com o OpenFaaS&reg; o desenvolvedor pode facilmente fazer o deploy funções e microserviços no Kubernetes sem codigo repetitivo. Empacotar seu codigo ou binario ja existente em uma imagem
+Docker para ter um endpoint altamente escalavel com auto escalonamento e metricas.
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40openfaas)](https://twitter.com/openfaas)
 
